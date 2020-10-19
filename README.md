@@ -1,9 +1,12 @@
 ﻿<h1 align="center">Happy<br> Visite orfanatos e mude o dia de muitas crianças :heart:</h1> 
 
 <p align="center">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafaeros/happy?color=%2329b6d1&style=for-the-badge">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafaeros/happy?color=%2329b6d1&style=for-the-badge">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rafaeros/happy?color=%2329b6d1&style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Rafaeros/happy?color=%2329b6d1&style=for-the-badge">
 </p>
+
+<hr>
 
 ## 📄 - Sobre
 
@@ -66,4 +69,11 @@ npm install.
 * SQLite
 
 <hr>
+  <h2 align="center">📱 - Redes Sociais</h2>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/rafael-costa-41770a187/" alt="Linkedin">
+    Linkedin - 
+  </a>
+  <a href="https://www.instagram.com/rafaeladrianc/" alt="Instagram">Instagram</a>
+  </p>
 <hr>
