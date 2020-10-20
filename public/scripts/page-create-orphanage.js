@@ -90,8 +90,10 @@ function toggleSelect(event) {
 
 function validateMap(event) {
     // validar se  lat e lng estão preenchidos
-    const needsLatAndLng = true;
-    if(needsLatAndLng){
+    needsLat = document.querySelector('.lat-input').value
+    needsLng = document.querySelector('.lng-input').value
+    if(needsLat == "" && needsLng == ""){
+        needsLatAndLng = true
         console.log(needsLatAndLng)
         event.preventDefault()
         alert('Selecione um ponto no mapa')
